@@ -89,6 +89,8 @@ It allows you to chat with local models downloaded using Ollama, running entirel
 - **Ollama errors**: Ensure Ollama is running locally (`ollama serve`) and models are pulled.
 - **Stream closed errors**: Ensure AbortController is properly managed; avoid multiple enqueues after abort.
 
+##some Problems
+pdf upload but performing operations on the same is not working for now but will set it out 
 ## Dependencies
 
 - Next.js: App framework
