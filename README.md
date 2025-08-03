@@ -106,3 +106,4 @@ After Uploading the pdf unable to perform operations on that particular docs wil
 MIT License. Feel free to use and modify.
 
 credit for logics by [KenanGain](https://github.com/KenanGain)
+And Enhance By https://github.com/priyanshu00007
