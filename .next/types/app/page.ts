@@ -1,4 +1,4 @@
-// File: D:\ecommerce\Llama-3.2_running_locally\src\app\page.tsx
+// File: D:\ecommerce\local_chatbot\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
