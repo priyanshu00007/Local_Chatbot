@@ -104,3 +104,5 @@ After Uploading the pdf unable to perform operations on that particular docs wil
 ## License
 
 MIT License. Feel free to use and modify.
+
+credit for logics by [KenanGain](https://github.com/KenanGain)
